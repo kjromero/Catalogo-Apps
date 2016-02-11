@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catalogo Apps</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="detalle_activity">Actividad Detalle</string>
+    <string name="MessageProgressDialog">Descargando datos</string>
+    <string name="TitleProgressDialog">Espere un momento</string>
+</resources>
